@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=gggandre)
-[![Andre wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gggandre)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
