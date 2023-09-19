@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=gggandre&show_icons=true&theme=tokyonight) &nbsp; &nbsp; &nbsp; [![Andre's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gggandre)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://wakatime.com/@bedef842-33e4-4c64-8c2f-72255e014c57"><img src="https://wakatime.com/badge/user/bedef842-33e4-4c64-8c2f-72255e014c57.svg" alt="Total time coded since May 26 2023" /></a>
+<a href="https://wakatime.com/@bedef842-33e4-4c64-8c2f-72255e014c57"><img src="https://wakatime.com/badge/user/c2db3397-9c5e-48c2-9b37-48991b449016.svg" alt="Total time coded since September 19 2023" /></a>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
