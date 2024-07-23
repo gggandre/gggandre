@@ -1,11 +1,11 @@
 ### Hi, I'm André 👋
 
-- 🔭 I’m currently working at Nimblr.ai
-- 🌱 I’m currently studying B.S. in Computer Science and Technology at Tecnológico de Monterrey
+- 🔭 I’m currently working at Takeda
+- 🌱 I have a B.S. in Computer Science and Technology at Tecnológico de Monterrey
 - 💬 Ask me about anything
 - 📫 How to reach me: gggandre08@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I love videogames
+- ⚡ Fun fact: I love videogames and anime
 
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=gggandre&show_icons=true&theme=tokyonight) &nbsp; &nbsp; &nbsp; [![Andre's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gggandre)](https://github.com/anuraghazra/github-readme-stats)
