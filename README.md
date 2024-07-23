@@ -1,7 +1,7 @@
 ### Hi, I'm André 👋
 
 - 🔭 I’m currently working at Takeda
-- 🌱 I have a B.S. in Computer Science and Technology at Tecnológico de Monterrey
+- 🌱 I have a B.S. in Computer Science from Tecnológico de Monterrey
 - 💬 Ask me about anything
 - 📫 How to reach me: gggandre08@gmail.com
 - 😄 Pronouns: he/him
